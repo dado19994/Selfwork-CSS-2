@@ -1,0 +1,65 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+nav{
+    background-color: rgba(37, 37, 37, 0.603);
+}
+
+.Logoaulab{
+    width: 100px;
+    height: 100px;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+
+}
+
+.listlink{
+    list-style-type: none;
+}
+
+header{
+    background-image: url(../imm/background.jpg);
+    background-position: center;
+    text-align: center;
+
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+}
+
+.linkhome{
+    color: white;
+    text-decoration: none;
+}
+
+.btnarticle{
+    background-color: rgba(37, 37, 37, 0.603);
+    color: white;
+}
+
+.btnarticle:hover{
+    background-color: yellow;
+    color: black;
+}
+
+aside{
+    width: 40%;
+    max-width: 150px;
+    min-width: 100px;
+    float: left;
+}
+
+
+
+.inline-block{
+    display: inline-block;
+    padding-right: 10%;
+    margin-bottom: 10px;
+}
+
